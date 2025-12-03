@@ -16,3 +16,12 @@
 - Real-time applications: chat applications, live sports updates, real time gaming, and any application requiring instant updates can benefit from ws.
 - Live Feeds: Financial trackers, news feeds, and social media updates are examples where ws can be used to push live data to users.
 - Interactive Services: Collaborative editing tools, live customer support chat, and interactive webinars can use ws to enhance user interaction.
+
+
+
+
+
+## research
+- TCP/ UDP Layer, OSI Modeel
+- why websockets are used instead of polling/long polling ?
+- 
