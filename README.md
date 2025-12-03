@@ -17,6 +17,15 @@
 - Live Feeds: Financial tickers, news feeds, and social media updates are examples where ws can be used to push live data to users.
 - Interactive Services: Collaborative editing tools, live customer support chat, and interactive webinars can use ws to enhance user interaction.
 
+## Why not use HTTP/REST? Why do you need ws?
+<img width="712" height="322" alt="image" src="https://github.com/user-attachments/assets/e768de25-c93c-421d-b909-03f77c39f0c4" />
+
+1. Network Handshake happens for every request
+2. No way to push server side events (You can use polling but not the best approach)
+
+- Leetcode uses polling when you submit a problem
+<img width="638" height="449" alt="image" src="https://github.com/user-attachments/assets/31c03143-9726-4b2d-b0af-1d0bc5dcb4f0" />
+
 
 
 
