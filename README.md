@@ -35,6 +35,12 @@ There are various libraries that let you create a ws server (similar to how `exp
 
 We’ll be using the `ws` library today.
 
+Problems with socket.io - 
+Even though socket.io is great (it gives you constructs like rooms to make the API much cleaner), it’s harder to support multiple platforms in it (Android, IOS, Rust)
+There are implementations in most platforms but not very up to date 
+https://socket.io/blog/native-socket-io-and-android/
+https://github.com/1c3t3a/rust-socketio
+
 
 
 
