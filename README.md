@@ -26,6 +26,15 @@
 - Leetcode uses polling when you submit a problem
 <img width="638" height="449" alt="image" src="https://github.com/user-attachments/assets/31c03143-9726-4b2d-b0af-1d0bc5dcb4f0" />
 
+## websockets in nodejs
+There are various libraries that let you create a ws server (similar to how `express` lets you create an HTTP server)
+
+1. https://www.npmjs.com/package/websocket
+2. https://github.com/websockets/ws
+3. https://socket.io/
+
+We’ll be using the `ws` library today.
+
 
 
 
