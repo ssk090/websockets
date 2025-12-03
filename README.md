@@ -1,4 +1,4 @@
-# WebSockets
+# WebSockets [link](https://petal-estimate-4e9.notion.site/WebSockets-1477dfd10735802982becc925074b5f0)
 - websockets provide a way to establish a persistent, full-duplex communication channel over a single TPC connection between the client and the server.
 
 1.  persistent: there is no need to establish a connection again and again, it stays connected unless closed explicitly 
