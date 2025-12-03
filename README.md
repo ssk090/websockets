@@ -33,7 +33,7 @@ There are various libraries that let you create a ws server (similar to how `exp
 2. https://github.com/websockets/ws
 3. https://socket.io/
 
-We’ll be using the `ws` library today.
+sticking to `ws` library
 
 Problems with socket.io - 
 Even though socket.io is great (it gives you constructs like rooms to make the API much cleaner), it’s harder to support multiple platforms in it (Android, IOS, Rust)
